@@ -5,7 +5,7 @@ import java.util.*;
 
 public class 팰린드롬만들기_1695 {
 	static int n,dat[],dp[][];
-	static void main(String[] args)throws Exception{
+	public static void main(String[] args)throws Exception{
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
 		
