@@ -1,5 +1,7 @@
 package 백준;
 
+//169980KB	496ms
+
 import java.io.*;
 import java.util.*;
 public class 나무자르기_2805{
