@@ -1,5 +1,7 @@
 package 백준;
 
+// 27496KB	252ms
+
 import java.io.*;
 import java.util.*;
 public class 공유기설치_2110 {
